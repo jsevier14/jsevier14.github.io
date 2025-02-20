@@ -1,7 +1,8 @@
 @font-face {
   font-family: 'Scoreboard80-Regular';
   src: url('https://raw.githubusercontent.com/jsevier14/jsevier14.github.io/main/Scoreboard80-Regular.woff2') format('woff2'),
-       url('https://raw.githubusercontent.com/jsevier14/jsevier14.github.io/main/Scoreboard80-Regular.woff') format('woff');
+       url('https://raw.githubusercontent.com/jsevier14/jsevier14.github.io/main/Scoreboard80-Regular.woff') format('woff'),
+       url('https://raw.githubusercontent.com/jsevier14/jsevier14.github.io/main/Scoreboard80-Regular.otf') format('otf');
   font-weight: normal;
   font-style: normal;
 }
